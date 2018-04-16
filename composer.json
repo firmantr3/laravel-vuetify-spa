@@ -1,7 +1,7 @@
 {
-    "name": "cretueusebiu/laravel-vue-spa",
-    "description": "A Laravel-Vue SPA starter project template.",
-    "keywords": ["spa", "laravel", "vue"],
+    "name": "firmantr3/laravel-vuetify-spa",
+    "description": "A Laravel-Vuetify SPA starter project template.",
+    "keywords": ["spa", "laravel", "vue", "vuetify"],
     "license": "MIT",
     "type": "project",
     "require": {
@@ -37,7 +37,7 @@
     "extra": {
         "laravel": {
             "dont-discover": [
-              "laravel/dusk"
+                "laravel/dusk"
             ]
         }
     },
